@@ -2,7 +2,8 @@
 #include "functionsDeclarations.h"
 
 
-int main() { 
+int main() 
+{ 
 	int width, height;
 
 	std::cout << "please enter width: ";
