@@ -1,6 +1,6 @@
 #include <iostream>
 
-struct Date{
+struct Date{ //
     int day;
     int month;
     int year;
@@ -8,7 +8,7 @@ struct Date{
 
 int main()
 {
-    Date d1;
+    Date d1; //
 
     Date d2 = {3,1,2022};
     
